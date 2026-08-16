@@ -40,4 +40,6 @@ Consultar stock de los productos, horarios de atencion de los minimarkets
 3. ¿Cómo decides a qué minimarket ir cuando necesitas comprar algo? 
 4. ¿Qué cosas sueles tener en cuenta antes de ir a comprar a un minimarket? 
 5. ¿Cómo sabes qué productos necesitas comprar cuando vas al minimarket? 
-6. ¿Qué situaciones suelen hacer que tardes más de lo esperado en una compra? 
+6. ¿Qué situaciones suelen hacer que tardes más de lo esperado en una compra?
+7. ¿Qué suele pasar cuando necesitas comprar algo con cierta urgencia?
+8. ¿Qué haces cuando llegas a un comercio y la compra no sale como esperabas?
